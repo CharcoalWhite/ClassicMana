@@ -13,8 +13,8 @@
 		}
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/ClassicMana",
+		"sources": "https://github.com/CharcoalWhite/ClassicMana"
 	},
 	"license": "GNU-GPL-3.0",
 	"icon": "assets/classicmana/icon.png",
